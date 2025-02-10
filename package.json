@@ -1,0 +1,25 @@
+{
+  "name": "reactbasic",
+  "version": "1.0.0",
+  "description": "\"Learnin React\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekRepos/React.git"
+  },
+  "author": "Vivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekRepos/React/issues"
+  },
+  "homepage": "https://github.com/VivekRepos/React#readme",
+  "dependencies": {
+    "parcel": "^2.13.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "reactdom": "^2.0.0"
+  }
+}
